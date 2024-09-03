@@ -12,6 +12,9 @@ body {
   
   }
   main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: hsl(0, 0%, 12%);
     color: white;
     padding: 20px;
